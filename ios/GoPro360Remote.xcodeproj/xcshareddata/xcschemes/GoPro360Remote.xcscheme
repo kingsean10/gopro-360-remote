@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "TempProject.app"
-               BlueprintName = "TempProject"
-               ReferencedContainer = "container:TempProject.xcodeproj">
+               BuildableName = "GoPro360Remote.app"
+               BlueprintName = "GoPro360Remote"
+               ReferencedContainer = "container:GoPro360Remote.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "TempProjectTests.xctest"
-               BlueprintName = "TempProjectTests"
-               ReferencedContainer = "container:TempProject.xcodeproj">
+               BuildableName = "GoPro360RemoteTests.xctest"
+               BlueprintName = "GoPro360RemoteTests"
+               ReferencedContainer = "container:GoPro360Remote.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TempProject.app"
-            BlueprintName = "TempProject"
-            ReferencedContainer = "container:TempProject.xcodeproj">
+            BuildableName = "GoPro360Remote.app"
+            BlueprintName = "GoPro360Remote"
+            ReferencedContainer = "container:GoPro360Remote.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TempProject.app"
-            BlueprintName = "TempProject"
-            ReferencedContainer = "container:TempProject.xcodeproj">
+            BuildableName = "GoPro360Remote.app"
+            BlueprintName = "GoPro360Remote"
+            ReferencedContainer = "container:GoPro360Remote.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

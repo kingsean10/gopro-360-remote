@@ -1,4 +1,4 @@
-package com.tempproject
+package com.gopro360remote
 
 import android.app.Application
 import com.facebook.react.PackageList
